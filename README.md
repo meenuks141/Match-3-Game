@@ -52,4 +52,4 @@ This is a classic Match-3 puzzle game where players swap adjacent tiles to creat
 
 ### UI (Score & Moves)
 ![UI](Screenshots/match2.png)
-![UI])Screenshots/match3.png)
+![UI](Screenshots/match3.png)
